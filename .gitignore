@@ -1,3 +1,9 @@
+# image files are too large to add to repo
+*.jpg
+
+# tokens, even though these almost certainly will not work
+access.R
+
 # History files
 .Rhistory
 .Rapp.history
